@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22ccda79-6209-481f-928d-2f9fe9c01fc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task2/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/task4/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/ExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/FileWriterUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/PersonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework3/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,5 +51,16 @@
       <updated>1693344516667</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/homework3/PersonParser.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
